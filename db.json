@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": 101,
+      "id": 123,
       "category": "animal welfare",
       "title": "Sonya for Presedent!",
       "description": "Vote for Sonya",
@@ -11,7 +11,7 @@
       "organizer": "Kat Laydee"
     },
     {
-      "id":102,
+      "id": 456,
       "category": "food",
       "title": "Autism is cool",
       "description": "Sonya is an autist, vote for her",
@@ -21,29 +21,7 @@
       "organizer": "Fern Pollin"
     },
     {
-      "id": 103,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
-      "time": "11:00",
-      "organizer": "Carey Wales"
-    },
-    
-    {
-      "id": 104,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
-      "time": "11:00",
-      "organizer": "Carey Wales"
-    },
-    
-    {
-      "id": 105,
+      "id": 789,
       "category": "sustainability",
       "title": "Beach Cleanup",
       "description": "Help pick up trash along the shore.",
@@ -52,5 +30,5 @@
       "time": "11:00",
       "organizer": "Carey Wales"
     }
-  ]
-}
+    ]
+  }

@@ -1,34 +1,21 @@
 {
-  "events": [
+  "startupIdeas": [
     {
-      "id": 123,
-      "category": "animal welfare",
-      "title": "Sonya for Presedent!",
-      "description": "Vote for Sonya",
-      "location": "Anywhere",
-      "date": "Right now",
-      "time": "12:00",
-      "organizer": "Kat Laydee"
-    },
-    {
-      "id": 456,
-      "category": "food",
-      "title": "Autism is cool",
-      "description": "Sonya is an autist, vote for her",
-      "location": "Flora City",
-      "date": "March 14, 2022",
-      "time": "10:00",
-      "organizer": "Fern Pollin"
-    },
-    {
-      "id": 789,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
-      "time": "11:00",
-      "organizer": "Carey Wales"
+      "id": 1,
+      "title": "Innovative App",
+      "description": "An app that connects freelancers with clients.",
+      "jobs": [
+        {
+          "id": 1,
+          "title": "Frontend Developer",
+          "description": "Build the user interface."
+        },
+        {
+          "id": 2,
+          "title": "Backend Developer",
+          "description": "Develop the server-side logic."
+        }
+      ]
     }
-    ]
-  }
+  ]
+}
